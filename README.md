@@ -6,6 +6,7 @@
 * [orm](https://github.com/laijinhang/personal-realization-golib/tree/master/orm)
 * [log](https://github.com/laijinhang/personal-realization-golib/tree/master/log)
 * [cache](https://github.com/laijinhang/personal-realization-golib/tree/master/cache)
+* redis库
 * [websocket](https://github.com/laijinhang/go-tcp-websocket)
 
 # Go库
