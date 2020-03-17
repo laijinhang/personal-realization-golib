@@ -8,6 +8,8 @@
 * [cache](https://github.com/laijinhang/personal-realization-golib/tree/master/cache)
 * redis库
 * [websocket](https://github.com/laijinhang/go-tcp-websocket)
+* uuid
+* 雪花算法
 
 # Go库
 * strings
