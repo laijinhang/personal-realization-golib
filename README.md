@@ -14,6 +14,8 @@
 # Go库
 * strings
 * bytes
+* os
+* syscall
 
 # 工具
 * [gMysqlAdminer](https://github.com/laijinhang/gMysqlAdminer)
