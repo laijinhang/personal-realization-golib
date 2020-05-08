@@ -9,6 +9,7 @@
 * redis库
 * [websocket](https://github.com/laijinhang/go-tcp-websocket)
 * uuid
+* [编号池](https://github.com/laijinhang/numberpool)
 * 雪花算法
 
 # Go库
@@ -18,8 +19,7 @@
 * syscall
 
 # 分布式算法
-* raft算法原理
-* raft算法实现
+* [raft算法](https://github.com/laijinhang/raft)
 
 # 工具
 * [gMysqlAdminer](https://github.com/laijinhang/gMysqlAdminer)
