@@ -17,5 +17,9 @@
 * os
 * syscall
 
+# 分布式算法
+* raft算法原理
+* raft算法实现
+
 # 工具
 * [gMysqlAdminer](https://github.com/laijinhang/gMysqlAdminer)
