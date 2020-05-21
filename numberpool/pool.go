@@ -1,6 +1,8 @@
-package numberpool
+package common
 
-import "sync/atomic"
+import (
+	"sync/atomic"
+)
 
 type NumberPool struct {
 	numberArr []uint64
@@ -9,7 +11,7 @@ type NumberPool struct {
 	add uint64
 }
 
-func New(val, add uint64) *NumberPool {
+func NewNumberPool(val, add uint64) *NumberPool {
 	return &NumberPool{
 		numberArr:make([]uint64, val+1),
 		number: 1,
