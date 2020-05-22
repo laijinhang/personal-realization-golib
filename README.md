@@ -12,6 +12,7 @@
 * uuid
 * [编号池](https://github.com/laijinhang/personal-realization-golib/blob/master/numberpool/pool.go)
 * 基于原子锁实现的session库
+* 布隆过滤器
 * 限流算法
 * 防DDOS算法
 * 雪花算法
