@@ -27,6 +27,7 @@
 
 # 分布式算法
 * [raft算法](https://github.com/laijinhang/personal-realization-golib/tree/master/raft)
+* paxos
 
 # 工具
 * [goMysqlAdminer](https://github.com/laijinhang/gMysqlAdminer)
